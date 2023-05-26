@@ -43,3 +43,4 @@ The Shopify CLI generates an amazing starter app but it still needs some more bo
 
 - Storing data is kept to a minimal to allow building custom models for flexibility.
   - Session persistence is also kept to a minimal and based on the Redis example provided by Shopify, but feel free to modify as required.
+# ShopifyApp
